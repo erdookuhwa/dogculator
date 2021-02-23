@@ -1,0 +1,36 @@
+body {
+    background-color: #94C9A9;
+    display: flex;
+}
+
+.container {
+    width: 300px;
+    background-color: #C6ECAE;
+    border-radius: 20px;
+    margin: 60px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+
+}
+
+.button, .months-button, .days-button {
+    background-color: #FE5F55;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    align-self: center;
+    margin-bottom: 5px;
+}
+
+#input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+#result {
+    color: #181A25;
+    font-size: 50px;
+    align-self: center;
+}
