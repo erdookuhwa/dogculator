@@ -10,8 +10,8 @@ body {
     margin: 60px;
     display: flex;
     flex-direction: column;
-    padding: 20%;
-    margin: 10% 20%;
+    padding: 5%;
+    margin: 5% 20%;
 }
 
 .button, .months-button, .days-button {
