@@ -34,3 +34,8 @@ body {
     font-size: 50px;
     align-self: center;
 }
+
+#dog {
+    text-align: center;
+    color: green;
+}
