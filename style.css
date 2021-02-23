@@ -1,6 +1,7 @@
 body {
     background-color: #94C9A9;
     display: flex;
+    align-items: center;
 }
 
 .container {
@@ -11,7 +12,6 @@ body {
     display: flex;
     flex-direction: column;
     padding: 40px;
-    justify-content: center;
 }
 
 .button, .months-button, .days-button {
